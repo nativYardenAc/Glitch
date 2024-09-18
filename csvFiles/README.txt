@@ -1,3 +1,4 @@
+data of gandalf_270618b_cond1
 eyeXVec- matrix of calibrated eyeX of all trials in cond1, samplesXtrials
 eyeYVev- matrix of calibrated eyeY of all trials in cond1, samplesXtrials
 MSduringVecs- all the data of the detected MSs (trial, indices of start and end in the vecs, max emplitude, final direction and max velocity)
